@@ -21,6 +21,12 @@ No arquivo **package.json** criar o comando para iniciar a api **json-server**, 
 Inicia a api;
 > npm start 
 
-## frontend 
 
-<img src="/readme-assets/arvore_de_componentes.png">
+# frontend Conceitos Angular-9
+
+**Conceitos**
+
+<img width="" height="" src="/readme-assets/what_angular.png">
+<img width="" height="" src="/readme-assets/cli_angular.png">
+<img width="" height="" src="/readme-assets/ts_angular.png">
+<img width="" height="" src="/readme-assets/arvore_componentes_angular.png">
