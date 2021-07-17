@@ -22,3 +22,5 @@ Inicia a api;
 > npm start 
 
 ## frontend 
+
+<img src="/readme-assets/arvore_de_componentes.png">
