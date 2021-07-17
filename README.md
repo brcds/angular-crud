@@ -26,7 +26,7 @@ Inicia a api;
 
 **Conceitos**
 
-<img width="" height="" src="/readme-assets/what_angular.png">
+<img width="" height="" src="/readme-assets/angular.png">
 <img width="" height="" src="/readme-assets/cli_angular.png">
 <img width="" height="" src="/readme-assets/ts_angular.png">
 <img width="" height="" src="/readme-assets/arvore_componentes_angular.png">
