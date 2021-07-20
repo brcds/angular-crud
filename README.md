@@ -26,7 +26,24 @@ Inicia a api;
 
 **Conceitos**
 
-<img width="" height="" src="/readme-assets/angular.png">
-<img width="" height="" src="/readme-assets/cli_angular.png">
-<img width="" height="" src="/readme-assets/ts_angular.png">
-<img width="" height="" src="/readme-assets/arvore_componentes_angular.png">
+<p align="center">
+    <img width="" height="" src="/readme-assets/angular.png">
+    <img width="" height="" src="/readme-assets/cli_angular.png">
+    <img width="" height="" src="/readme-assets/ts_angular.png">
+    <img width="" height="" src="/readme-assets/arvore_componentes_angular.png">
+</p>
+
+** Conceitos Essenciais **
+
+Inicialização.
+_main.ts_ -> _AppModule_ -> _AppComponent_ 
+
+**Componentes**
+_html_ -> home.component.css 
+_CSS_  -> home.component.html
+_TS_   -> home.component.ts
+
+Como referencia um component (encapsula as 3 tecnologias dentro do component.)
+> <app-home></app-home>
+
+
